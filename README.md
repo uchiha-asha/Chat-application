@@ -1,3 +1,5 @@
+Multiple users can register and chat with each other simultaneously.
+
 Instructions for running:-
 1. make all
 2. ./server [port number]
